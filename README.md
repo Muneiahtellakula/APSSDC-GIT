@@ -31,7 +31,7 @@ _Some text can be itallic_ <br>
 
 # TAJMAHAL
 
-![TAJMAHAL](https://www.holidify.com/images/cmsuploads/compressed/Taj_mahal_in_independence_day_20171024202456.jpg)
+![TAJMAHAL](https://www.holidify.com/images/cmsuploads/compressed/Taj_mahal_in_independence_day_20171024202456.jpg )
 
 # Links
 [Git Official Link](https://git-scm.com)
@@ -84,19 +84,3 @@ Ravi | 10,000
 # Emojis
 
 :sunglasses:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
